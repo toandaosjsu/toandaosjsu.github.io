@@ -132,6 +132,6 @@ npm test
 
 👨🏻‍💻 **Eric Wu** - [ericwu12345](https://github.com/orgs/CS161-SJSU/people/ericwu12345) (Backend Developer)
 
-👨🏻‍💻 **Toan Dao** - [toandaosjsu](https://https://github.com/toandaosjsu) (Backend Developer)
+👨🏻‍💻 **Toan Dao** - [toandaosjsu](https://github.com/toandaosjsu) (Backend Developer)
 
 See also the list of [contributors](https://github.com/CS161-SJSU/social-analytics/graphs/contributors) who participated in this project.
